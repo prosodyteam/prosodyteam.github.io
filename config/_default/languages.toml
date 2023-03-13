@@ -3,16 +3,16 @@
     contentDir = "content/en"
     weight = 1
     [en.params.head]
-        tagline = "A Hugo Theme"
+        tagline = "Using PENTAtrainer"
     [en.params.feature]
-        message = "Welcome to Hinode!"
-        tagline = "A clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+        message = "Comparative prosody modelling across languages"
+        tagline = "Welcome to knowledge-transfer website"
         link = "/en/about"
         caption = "About"
     [en.params.footer]
-        license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank'>CC BY-NC-SA 4.0</a>)."
-        socialTitle = "Follow me"
-        socialCaption = "I work on everything coding and tweet developer memes"
+        license = ""
+        socialTitle = "Contact us"
+        socialCaption = "Feel free to contact us if you have any problems.  Address:The Education University of Hong Kong  Email:prosody@eduhk.hk"
 
 [nl]
     languageName = "Nederlands"
