@@ -1,6 +1,6 @@
 [main]
     separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    description = ""
     enableDarkMode = true
 
 [docs]
@@ -8,7 +8,7 @@
     basePath = "node_modules/@gethinode/hinode"
 
 [home]
-    sections = ["blog", "projects"]
+    sections = ["video", "manual"]
     featurePhoto = "/img/sunrise.jpg" # source: https://unsplash.com/photos/ZX6BPboJrYk
     fullCover = false
 
@@ -24,8 +24,8 @@
     sidebar = true
 
 [list]
-    [blog]
-        title = "Blog"
+    [video]
+        title = "Video Corner"
         sort = "date"
         reverse = false
         cols = 3
@@ -36,8 +36,8 @@
         orientation = "stacked"
         style = "border-0"
         homepage = 3
-    [projects]
-        title = "Projects"
+    [manual]
+        title = "Manual"
         sort = "title"
         reverse = false
         cols = 1
