@@ -1,0 +1,133 @@
+# Content
+- id: about
+  translation: "关于"
+- id: postedOnDate
+  translation: "发布于{{ . }}"
+- id: lastModified
+  translation: "最后修改于{{ . }}"
+- id: translationsLabel
+  translation: "其他语言： "
+- id: translationsSeparator
+  translation: ", "
+- id: more
+  translation: "更多{{ . }}"
+- id: readMore
+  translation: "阅读更多"
+- id: video
+- translation: "视频"
+- id: manual
+- translation: "教程"
+- id: moreVideo
+  translation: "更多视频"
+- id: olderVideo
+  translation: "往期视频"
+- id: recentVideo
+  translation: "最新视频"
+- id: newerVideo
+  translation: "新视频"
+- id: previousVideo
+  translation: "上一个"
+- id: nextVideo
+  translation: "下一个"
+- id: recentManual
+  translation: "最新教程"
+- id: moreManual
+  translation: "更多教程"
+- id: read
+  translation: "阅读"
+- id: minutesShort
+  translation: "分钟"
+- id: words
+  translation: "字"
+- id: copyright
+  translation: "版权"
+- id: photoBy
+  translation: "照片来自"
+- id: photoOn
+  translation: "拍摄于"
+- id: article
+  translation: "视频"
+- id: articles
+  translation: "视频"
+- id: paginationPrevious
+  translation: "上一页"
+- id: paginationNext
+  translation: "下一页"
+- id: paginationFirst
+  translation: "第一页"
+- id: paginationLast
+  translation: "最后一页"
+- id: toggleSidebar
+  translation: "切换侧边栏导航"
+- id: colorMode
+  translation: "颜色模式"
+- id: colorLight
+  translation: "明亮"
+- id: colorDark
+  translation: "暗黑"
+- id: colorAuto
+  translation: "自动"
+- id: toggleMainNav
+  translation: "切换主导航"
+
+# 404 page
+- id: pageNotFound
+  translation: "哎呀！这个页面走失了。请返回我们的"
+- id: pageNotFoundTitle
+  translation: "找不到页面"
+- id: pageNotFoundHome
+  translation: "主页"
+
+# Navigation
+- id: toggleNavigation
+  translation: "切换导航"
+- id: languageSwitcherLabel
+  translation: "语言"
+- id: gcseLabelShort
+  translation: "搜索"
+- id: gcseLabelLong
+  translation: "搜索{{ .Site.Title }}"
+- id: gcseClose
+  translation: "关闭"
+- id: home
+  translation: "主页"
+
+# Staticman
+- id: noComment
+  translation: "暂无评论"
+- id: oneComment
+  translation: "评论"
+- id: moreComment
+  translation: "更多评论"
+- id: useMarkdown
+  translation: "你可以使用Markdown语法"
+- id: yourName
+  translation: "您的姓名"
+- id: yourEmail
+  translation: "您的电子邮件地址"
+- id: yourWebsite
+  translation: "您的网站"
+
+# Delayed Disqus
+- id: show
+  translation: "显示"
+- id: comments
+  translation: "评论" 
+
+# Related posts
+- id: seeAlso
+  translation: "相关视频"
+
+# Table of contents
+- id: toc
+  translation: "本页目录"
+
+# Search
+- id: ui_search
+  translation: "搜索本站..."
+- id: ui_no_results
+  translation: "未搜索到相关结果"
+
+# Draft
+- id: draft
+  translation: "草稿"
