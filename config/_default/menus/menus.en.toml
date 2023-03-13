@@ -4,25 +4,25 @@
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "Video"
+  url = "/video/"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "/projects/"
+  name = "Manual"
+  url = "/manual/"
   weight = 30
 
 [[main]]
   name = "Sample project"
-  url = "/en/projects/sample-project/"
-  parent = "Projects"
+  url = "/en/manual/sample-project/"
+  parent = "Manual"
   weight = 1
 
 [[main]]
   name = "Another project"
-  url = "/en/projects/another-project/"
-  parent = "Projects"
+  url = "/en/manual/another-project/"
+  parent = "Manual"
   weight = 2
 
 [[main]]
@@ -49,23 +49,23 @@
   weight = 30
 
 [[sample]]
-  name = "Blog"
-  url = "/blog/"
+  name = "Video"
+  url = "/video/"
   weight = 10
 
 [[sample]]
-  name = "Projects"
-  url = "/projects/"
+  name = "Manual"
+  url = "/manual/"
   weight = 20
 
 [[sample]]
   name = "Sample project"
-  url = "/en/projects/sample-project/"
-  parent = "Projects"
+  url = "/en/manual/sample-project/"
+  parent = "Manual"
   weight = 1
 
 [[sample]]
   name = "Another project"
-  url = "/en/projects/another-project/"
-  parent = "Projects"
+  url = "/en/manual/another-project/"
+  parent = "Manual"
   weight = 2
